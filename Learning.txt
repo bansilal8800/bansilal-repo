@@ -1,0 +1,4 @@
+1. link your vs code to the github account 
+2. run the following commands
+	git config --global user.name "bansilal8800"
+	git config --global user.email "bansilal8800@gmail.com"
