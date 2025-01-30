@@ -21,3 +21,4 @@ if __name__ == "__main__":
     user_input = input("You: ")
     response = chat_with_gpt(user_input)
     print("ChatGPT:", response)
+    print("testing")
